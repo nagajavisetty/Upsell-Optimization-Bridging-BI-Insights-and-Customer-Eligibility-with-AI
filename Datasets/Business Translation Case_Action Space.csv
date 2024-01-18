@@ -1,0 +1,61 @@
+﻿ACTION_ID;PROMOTION_TELEFONFLAT;SPEED_MB_TARGET;TECHNOLOGY_SWITCH;ROUTER_SWITCH;ROUTER_TYPE
+A_01;0;50;0;0;no change
+A_02;0;50;0;1;basic
+A_03;0;50;0;1;premium
+A_04;1;50;0;0;no change
+A_05;1;50;0;1;basic
+A_06;1;50;0;1;premium
+A_07;0;100;0;0;no change
+A_08;0;100;0;1;basic
+A_09;0;100;0;1;premium
+A_10;1;100;0;0;no change
+A_11;1;100;0;1;basic
+A_12;1;100;0;1;premium
+A_13;0;250;0;0;no change
+A_14;0;250;0;1;basic
+A_15;0;250;0;1;premium
+A_16;1;250;0;0;no change
+A_17;1;250;0;1;basic
+A_18;1;250;0;1;premium
+A_19;0;500;0;0;no change
+A_20;0;500;0;1;basic
+A_21;0;500;0;1;premium
+A_22;1;500;0;0;no change
+A_23;1;500;0;1;basic
+A_24;1;500;0;1;premium
+A_25;0;1000;0;0;no change
+A_26;0;1000;0;1;basic
+A_27;0;1000;0;1;premium
+A_28;1;1000;0;0;no change
+A_29;1;1000;0;1;basic
+A_30;1;1000;0;1;premium
+A_31;0;50;1;0;no change
+A_32;0;50;1;1;basic
+A_33;0;50;1;1;premium
+A_34;1;50;1;0;no change
+A_35;1;50;1;1;basic
+A_36;1;50;1;1;premium
+A_37;0;100;1;0;no change
+A_38;0;100;1;1;basic
+A_39;0;100;1;1;premium
+A_40;1;100;1;0;no change
+A_41;1;100;1;1;basic
+A_42;1;100;1;1;premium
+A_43;0;250;1;0;no change
+A_44;0;250;1;1;basic
+A_45;0;250;1;1;premium
+A_46;1;250;1;0;no change
+A_47;1;250;1;1;basic
+A_48;1;250;1;1;premium
+A_49;0;500;1;0;no change
+A_50;0;500;1;1;basic
+A_51;0;500;1;1;premium
+A_52;1;500;1;0;no change
+A_53;1;500;1;1;basic
+A_54;1;500;1;1;premium
+A_55;0;1000;1;0;no change
+A_56;0;1000;1;1;basic
+A_57;0;1000;1;1;premium
+A_58;1;1000;1;0;no change
+A_59;1;1000;1;1;basic
+A_60;1;1000;1;1;premium
