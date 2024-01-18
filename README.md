@@ -9,7 +9,7 @@ This project focuses on optimizing upsell campaigns for a city carrier in the te
 To utilize this code for your upsell optimization:
 
 1. Ensure you have the required data files: 'Business Translation Case_Customer Data.csv', 'Business Translation Case_Tec Restrictions.csv', and 'Business Translation Case_Action Space.csv'.
-2. Install the dependencies listed in the requirements.txt file
+2. Install the required dependencies using the provided `requirements.txt` file.
 3. Run the provided code in a Python environment.
 4. The resulting `all_actions` dictionary contains eligibility flags for each customer and action.
 
